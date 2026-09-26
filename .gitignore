@@ -2,4 +2,8 @@ node_modules/
 /.env
 /.DS_Store
 dev.db
+.agents/
+.claude/
+.cursor/
+.devin/
 coverage/
